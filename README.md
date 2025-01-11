@@ -1,7 +1,6 @@
-<!--
-*
-*   nyexoi's Market - Product Details
-*
-*   Made By https://github.com/nyex0i
-*
--->
+Free eCommerce website! 
+
+__________________
+
+
+use as you want
